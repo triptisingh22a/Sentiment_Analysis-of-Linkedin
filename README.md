@@ -28,10 +28,11 @@ Subjectivity (0 to 1)
 ##### CITE THIS WORK
 If you use this project or reference the results, please cite the IEEE paper:
 
-@inproceedings{linkedin2024sentiment,
-  author={Your Name},
-  title={Analyzing Professional Networking Behavior on LinkedIn Using NLP-based Sentiment Analysis},
-  booktitle={IEEE ISED},
-  year={2024},
-  doi={10.1109/ISED63599.2024.10956862}
+@inproceedings{inproceedings,
+author = {Dash, Prasant and Kumar, Aniket and Singh, Tripti and Gope, Tarun and Singh, Pranab and Behera, Bichitrananda},
+year = {2024},
+month = {12},
+pages = {1-5},
+title = {Sentiment Analysis of Professional Social Network Like Linkedin Using Textblob},
+doi = {10.1109/ISED63599.2024.10956862}
 }
